@@ -76,4 +76,4 @@ python -m unittest
 Contributions to the Simple Health Q&A Project are welcome. Please read the contributing guidelines before submitting pull requests.
 
 ## License
-No License for this as it is a test projects!.
+No License for this as it is a test project!.
